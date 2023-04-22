@@ -162,7 +162,7 @@
             "bg" : "#3F51B5"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
@@ -170,7 +170,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#ffffff"
@@ -191,7 +191,7 @@
         },
         {
             "active" : "false",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Questions",
             "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
             "bg" : "#ffffff"
