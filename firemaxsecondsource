@@ -170,7 +170,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#ffffff"
@@ -183,7 +183,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "Puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
