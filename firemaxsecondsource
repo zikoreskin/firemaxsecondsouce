@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "max",
+            "network" : "MAX",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -42,7 +42,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 4,
+            "ad_int_interval" : 3,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
@@ -198,7 +198,7 @@
         },
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
