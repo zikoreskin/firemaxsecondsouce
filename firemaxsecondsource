@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "max",
+            "network" : "Max",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -25,7 +25,7 @@
 
             "max_ban": "6e91c2485c780939",
             "max_native": "c7625f0cb4941d33",
-            "max_int": "503f72078802de32",
+            "max_int": "e297cbbf909329b9",
 
             "fan_ban": "900697680953151_901244254231827",
             "fan_native": "900697680953151_902063924149860",
