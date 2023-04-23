@@ -240,12 +240,12 @@
         { "name" : "", "img" : "https://i.ibb.co/ZLbH2Rp/df6n995-9039880e-339e-42a8-8975.jpg" },
         { "name" : "", "img" : "https://i.ibb.co/h932BpW/df5eqmt-83ac6ea1-2760-4680-9bc4.jpg" },
         { "name" : "", "img" : "https://i.ibb.co/mHPw3gn/brilliant-sunset-by-ninobw-c.jpg" },
-        { "name" : "", "img" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a643677d-77ac-4812-8ce5-45e7f331eca5/df9qjbp-93c84519-edf7-441f-818b-455b2d63b90a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E2NDM2NzdkLTc3YWMtNDgxMi04Y2U1LTQ1ZTdmMzMxZWNhNVwvZGY5cWpicC05M2M4NDUxOS1lZGY3LTQ0MWYtODE4Yi00NTViMmQ2M2I5MGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JrdgkGHSwOpe-OM-FuPoVoi1NH7Oh-OLW3tlV_9QnKE" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/d-VIuto5--w/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/thumbnail/1200x900/quality/100/-1633195811532.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/1W1MYXltUPU/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
-        { "name" : "", "img" : "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/6924887c8c041245c25d5cf69c6d1255.png" }
+        { "name" : "", "img" : "https://i.ibb.co/JtGV0b9/worlds-without-harmony-by-justji.jpg" },
+        { "name" : "", "img" : "https://i.ibb.co/L608STW/tires-by-tohad-d875j4f-fullview.jpg" },
+        { "name" : "", "img" : "https://i.ibb.co/L0rZpnf/ss-93a5c7e46f4d088355f7223bed376.jpg" },
+        { "name" : "", "img" : "https://i.ibb.co/s9ZnCHd/the-temple-path-by-tohad-dbh0ghq.jpg" },
+        { "name" : "", "img" : "https://i.ibb.co/9nzGVG7/brilliant-summer-by-ninobw.jpg" },
+        { "name" : "", "img" : "https://i.ibb.co/mHPw3gn/brilliant-sunset-by-ninobw-c.jpg" }
     ],
     
     "games" : [
@@ -296,11 +296,11 @@
     ],
     
     "scratch" : [
-        { "img" : "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg" },
-        { "img" : "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg" },
-        { "img" : "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg" },
-        { "img" : "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg" },
-        { "img" : "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg" }
+        { "img" : "https://i.ibb.co/L0rZpnf/ss-93a5c7e46f4d088355f7223bed376.jpg" },
+        { "img" : "https://i.ibb.co/5xPVLWk/iiiiiiiiiiiiiiiss-070a69faaa1f6ea094019ebef60b3.jpg" },
+        { "img" : "https://i.ibb.co/BssnPtw/iiiiiiiiiiiiiiiiiiiiiiiiiii56a2dfd9.jpg" },
+        { "img" : "https://i.ibb.co/0sr8Wh9/iiiiiiiiiiiiiiiiiiiiiiibeed98872535ffd23d38ff6.jpg" },
+        { "img" : "https://i.ibb.co/WyyjBPN/iiiiiiiiiiiiiiiiiii-Cj8g-Qfr.jpg" }
     ],
 
     "quizquestions" : [
@@ -369,7 +369,7 @@
         },
         {
             "title" : "Tutorial",
-            "img" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221206194340_1.jpg?width=1024"
+            "img" : "https://i.ibb.co/BssnPtw/iiiiiiiiiiiiiiiiiiiiiiiiiii56a2dfd9.jpg"
         },
         {
             "title" : "South Mine Spelunking",
