@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "unity",
+            "network" : "max",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -23,8 +23,8 @@
             "yandex_int" : "R-M-2193310-3",
             "yandex_rewarded" : "R-M-2193310-4",
 
-            "max_ban": "e297cbbf909329b9",
-            "max_native": "e297cbbf909329b9",
+            "max_ban": "6e91c2485c780939",
+            "max_native": "790c0cffc5fc3ad4",
             "max_int": "e297cbbf909329b9",
 
             "fan_ban": "900697680953151_901244254231827",
