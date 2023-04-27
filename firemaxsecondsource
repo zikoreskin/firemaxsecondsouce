@@ -13,10 +13,10 @@
             
             "unity_game_id": "4776653",
             
-            "admob_ban": "ca-app-pub-4251477143655911/2599818347",
-            "admob_native" : "ca-app-pub-4251477143655911/1218260394",
-            "admob_int": "ca-app-pub-4251477143655911/5034409999",
-            "admob_rewarded": "ca-app-pub-4251477143655911/3461280350",
+            "admob_ban": "ca-app-pub-9917289542426850/5348097157",
+            "admob_native" : "ca-app-pub-9917289542426850/4243679298",
+            "admob_int": "ca-app-pub-9917289542426850/7974260494",
+            "admob_rewarded": "ca-app-pub-9917289542426850/6678270943",
 
             "yandex_ban" : "R-M-2193310-1",
             "yandex_native" : "R-M-2193310-2",
@@ -42,7 +42,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 1,
+            "ad_int_interval" : 2,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
