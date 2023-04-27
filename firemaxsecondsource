@@ -30,7 +30,7 @@
             "fan_ban": "900697680953151_901244254231827",
             "fan_native": "900697680953151_902063924149860",
             "fan_int": "900697680953151_900697960953123",
-            "fan_rewarded": "2455443151275039_2455451697940851",
+            "fan_rewarded": "900697680953151_954916722197913",
 
             "iron_key": "19b02d035",
             "iron_ban" : "DefaultBanner",
@@ -42,7 +42,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 1,
+            "ad_int_interval" : 3,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
