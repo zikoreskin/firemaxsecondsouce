@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -15,7 +15,7 @@
             
             "admob_ban": "ca-app-pub-9917289542426850/5348097157",
             "admob_native" : "ca-app-pub-9917289542426850/4243679298",
-            "admob_int": "ca-app-pub-4251477143655911/5034409999",
+            "admob_int": "ca-app-pub-9917289542426850/7974260494",
             "admob_rewarded": "ca-app-pub-9917289542426850/6678270943",
 
             "yandex_ban" : "R-M-2193310-1",
