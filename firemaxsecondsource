@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "admob",
+            "network" : "yandex",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -18,10 +18,10 @@
             "admob_int": "ca-app-pub-6495733807810833/3943411913",
             "admob_rewarded": "ca-app-pub-6495733807810833/9817204057",
 
-            "yandex_ban" : "R-M-2193310-1",
-            "yandex_native" : "R-M-2193310-2",
-            "yandex_int" : "R-M-2193310-3",
-            "yandex_rewarded" : "R-M-2193310-4",
+            "yandex_ban" : "R-M-2397345-1",
+            "yandex_native" : "R-M-2397345-2",
+            "yandex_int" : "R-M-2397345-3",
+            "yandex_rewarded" : "R-M-2397345-4",
 
             "max_ban": "6e91c2485c780939",
             "max_native": "790c0cffc5fc3ad4",
@@ -42,7 +42,7 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 3,
+            "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
             "orientation": "landscape",
