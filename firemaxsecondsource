@@ -2,12 +2,12 @@
     "ads" : [
         {
             "demo" : "false",
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "unity",
+            "network" : "is",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
