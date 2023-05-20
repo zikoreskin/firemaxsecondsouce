@@ -162,7 +162,7 @@
             "bg" : "#3F51B5"
         },
         {
-            "active" : "false",
+            "active" : "true",
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
@@ -183,7 +183,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
