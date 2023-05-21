@@ -50,7 +50,7 @@
             "game_name": "Fire Max Game",
             "game_cover": "https://i.ibb.co/JyCFSGL/maxresdehfault.jpg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://firemaxgame.netlify.app",
+            "game_link": "https://giftcardfiregame.netlify.app",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -166,7 +166,7 @@
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
-            "bg" : "https://firemaxgame.netlify.app"
+            "bg" : "https://giftcardfiregame.netlify.app"
         },
         {
             "active" : "true",
