@@ -7,15 +7,15 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "unity",
+            "network" : "admob",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
             "unity_game_id": "4776653",
             
-            "admob_ban": "ca-app-pub-6495733807810833/9092592975",
-            "admob_native" : "ca-app-pub-6495733807810833/2495433023",
-            "admob_int": "ca-app-pub-6495733807810833/3943411913",
+            "admob_ban": "ca-app-pub-8480778830857584/9549373069",
+            "admob_native" : "ca-app-pub-8480778830857584/4658695383",
+            "admob_int": "ca-app-pub-8480778830857584/2325489168",
             "admob_rewarded": "ca-app-pub-6495733807810833/9817204057",
 
             "yandex_ban" : "R-M-2397345-1",
